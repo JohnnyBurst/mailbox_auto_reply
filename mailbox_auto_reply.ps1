@@ -1,0 +1,1 @@
+Set-MailboxAutoReplyConfiguration emailaddress@domain.com –AutoReplyState Scheduled –StartTime “FullDate” –EndTime “FullDate” –ExternalMessage “External OOF message here” –InternalMessage “Internal OOF message here”
